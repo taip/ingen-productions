@@ -1,0 +1,259 @@
+.entry {
+  margin-bottom: @basemargin;
+  background: #f6f6f6;
+  .blockquote {
+    background: #e6e6e6;
+  }
+}
+
+.entry-title {
+  .font-size(20);
+}
+
+.entry-title + .entry-subtitle {
+  margin-top: -0.75em;
+}
+
+.entry-subtitle {
+  font-family: @sansfont;
+  .font-size(14);
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+
+.entry-banner {
+  min-height: 200px;
+  overflow: hidden;
+  background-color: #333;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  position: relative;
+}
+
+.banner-lfaw {
+  background-image: url(../images/lfaw2012-banner480.jpg);
+}
+.banner-nl {
+  background-image: url(../images/ninelives-banner480.jpg);
+}
+.banner-wc {
+  background-image: url(../images/wildcat-banner480.jpg);
+}
+.banner-lfaw4d {
+  background-image: url(../images/lfaw4d-banner480.jpg);
+}
+.banner-es {
+  background-image: url(../images/electricsheep-banner480.jpg);
+}
+.banner-hb {
+  background-image: url(../images/handbook-banner480.jpg);
+}
+.banner-ell {
+  background-image: url(../images/elliott-banner480.jpg);
+}
+.banner-nl2014 {
+  background-image: url(../images/ninelives2014-banner480.jpg);
+}
+.banner-ich {
+  background-image: url(../images/ich-banner480.jpg);
+}
+.banner-dy {
+  background-image: url(../images/dieyoung-banner480.jpg);
+}
+.banner-std {
+  background-image: url(../images/savethedate-banner480.jpg);
+}
+.banner-w2e {
+  background-image: url(../images/w2e-banner480.jpg);
+}
+.banner-higte {
+  background-image: url(../images/higte-banner480.jpg);
+}
+.banner-lfaw2017 {
+  background-image: url(../images/lfaw2017-banner480.jpg);
+}
+
+
+
+.entry-banner-text {
+  color: #fff;
+  text-shadow: 0 0 60px #000;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+/*
+  top: 50%;
+  margin-top: -1.4em;
+*/
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.entry-banner-title {
+  .font-size(32);
+  font-weight: 400;
+  line-height: 1em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+  .banner-hb & {
+    .font-size(28);
+  }
+}
+
+.entry-banner-subtitle {
+  letter-spacing: 0.15em;
+  margin-bottom: 0;
+}
+
+.entry-text {
+  padding: 2em 5% 1em;
+  overflow: hidden;
+}
+
+@media all and (min-width: 30em) {
+  .entry-banner-title {
+    .font-size(42);
+    .banner-hb & {
+      .font-size(32);
+    }
+  }
+  .entry-banner-subtitle {
+    .font-size(15);
+  }
+  
+  .banner-lfaw {
+    background-image: url(../images/lfaw2012-banner960.jpg);
+  }
+  .banner-nl {
+    background-image: url(../images/ninelives-banner960.jpg);
+  }
+  .banner-wc {
+    background-image: url(../images/wildcat-banner960.jpg);
+  }
+  .banner-lfaw4d {
+    background-image: url(../images/lfaw4d-banner960.jpg);
+  }
+  .banner-es {
+    background-image: url(../images/electricsheep-banner960.jpg);
+  }
+  .banner-hb {
+    background-image: url(../images/handbook-banner960.jpg);
+  }
+  .banner-ell {
+    background-image: url(../images/elliott-banner960.jpg);
+  }
+  .banner-nl2014 {
+    background-image: url(../images/ninelives2014-banner960.jpg);
+  }
+  .banner-ich {
+    background-image: url(../images/ich-banner960.jpg);
+  }
+  .banner-dy {
+    background-image: url(../images/dieyoung-banner960.jpg);
+  }
+  .banner-std {
+    background-image: url(../images/savethedate-banner960.jpg);
+  }
+  .banner-w2e {
+    background-image: url(../images/w2e-banner960.jpg);
+  }
+  .banner-higte {
+    background-image: url(../images/higte-banner960.jpg);
+  }
+  .banner-lfaw2017 {
+    background-image: url(../images/lfaw2017-banner960.jpg);
+  }
+}
+
+@media all and (min-width: 35em) {
+  .entry-banner-title {
+    .font-size(48);
+    .banner-hb & {
+      .font-size(36);
+    }
+  }
+}
+
+@media all and (min-width: 40em) {
+  .entry-text {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+}
+
+@media all and (min-width: 48em) {
+  .entry {
+    border: 1px solid @bordercolor;
+    box-sizing: border-box;
+  }
+  .entry-section {
+    .column(6);
+  }
+  .entry-section.section-results {
+    float: right;
+  }
+  .entry-banner {
+    height: 200px;
+  }
+  .entry-banner-text {
+//    margin-top: -2em;
+  }
+  .entry-banner-title {
+    .font-size(64);
+    margin-bottom: 0.25em;
+    .banner-hb & {
+      .font-size(48);
+    }
+  }
+  .entry-banner-subtitle {
+    .font-size(16);
+  }
+  .entry-text {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+}
+
+@media all and (min-width: 62.5em) {
+  .entry-banner {
+    height: 300px;
+    background-size: cover;
+  }
+  .entry-banner-text {
+//    margin-top: -3em;
+  }
+  .entry-banner-title {
+    .font-size(72);
+    .banner-hb & {
+      .font-size(60);
+    }
+  }
+  .entry-banner-subtitle {
+    .font-size(18);
+  }
+}
+
+@media screen and (min-width: 80em) {
+  .entry {
+    margin-bottom: (@basemargin * 2);
+  }
+  .entry-banner {
+    height: 374px;
+  }
+  .entry-banner-title {
+    .font-size(90);
+    .banner-hb & {
+      .font-size(64);
+    }
+  }
+}
