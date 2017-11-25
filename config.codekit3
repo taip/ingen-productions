@@ -30,6 +30,20 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
+	"\/_footer.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/_footer.html",
+		"oF": 0
+		},
+	"\/_header.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/_header.html",
+		"oF": 0
+		},
 	"\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 2603,
@@ -367,7 +381,7 @@
 	"\/images\/Logo-2017-Color.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/images\/Logo-2017-Color.svg",
 		"oF": 0,
 		"opt": 0,
