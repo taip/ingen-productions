@@ -7,7 +7,7 @@
 		"uuidString": "BDC9E552-2ABF-429D-A86F-659BE92E7713"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -155,6 +155,7 @@
 	"\/images\/dieyoung-banner480.jpg": {
 		"ft": 16384,
 		"iS": 33406,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/dieyoung-banner480.jpg",
 		"oF": 0,
@@ -165,6 +166,7 @@
 	"\/images\/dieyoung-banner960.jpg": {
 		"ft": 16384,
 		"iS": 69446,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/dieyoung-banner960.jpg",
 		"oF": 0,
@@ -175,6 +177,7 @@
 	"\/images\/electricsheep-banner480.jpg": {
 		"ft": 16384,
 		"iS": 40017,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/electricsheep-banner480.jpg",
 		"oF": 0,
@@ -185,6 +188,7 @@
 	"\/images\/electricsheep-banner960.jpg": {
 		"ft": 16384,
 		"iS": 64039,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/electricsheep-banner960.jpg",
 		"oF": 0,
@@ -195,6 +199,7 @@
 	"\/images\/elliott-banner480.jpg": {
 		"ft": 16384,
 		"iS": 16423,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/elliott-banner480.jpg",
 		"oF": 0,
@@ -205,6 +210,7 @@
 	"\/images\/elliott-banner960.jpg": {
 		"ft": 16384,
 		"iS": 32507,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/elliott-banner960.jpg",
 		"oF": 0,
@@ -215,6 +221,7 @@
 	"\/images\/handbook-banner480.jpg": {
 		"ft": 16384,
 		"iS": 108789,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/handbook-banner480.jpg",
 		"oF": 0,
@@ -225,6 +232,7 @@
 	"\/images\/handbook-banner960.jpg": {
 		"ft": 16384,
 		"iS": 62072,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/handbook-banner960.jpg",
 		"oF": 0,
@@ -235,6 +243,7 @@
 	"\/images\/higte-banner480.jpg": {
 		"ft": 16384,
 		"iS": 37670,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/higte-banner480.jpg",
 		"oF": 0,
@@ -245,6 +254,7 @@
 	"\/images\/higte-banner960.jpg": {
 		"ft": 16384,
 		"iS": 57418,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/higte-banner960.jpg",
 		"oF": 0,
@@ -255,6 +265,7 @@
 	"\/images\/ich-banner480.jpg": {
 		"ft": 16384,
 		"iS": 34530,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ich-banner480.jpg",
 		"oF": 0,
@@ -265,6 +276,7 @@
 	"\/images\/ich-banner960.jpg": {
 		"ft": 16384,
 		"iS": 55983,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ich-banner960.jpg",
 		"oF": 0,
@@ -275,6 +287,7 @@
 	"\/images\/ingen-collage-480x320.jpg": {
 		"ft": 16384,
 		"iS": 52322,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ingen-collage-480x320.jpg",
 		"oF": 0,
@@ -285,6 +298,7 @@
 	"\/images\/ingen-collage-720x480.jpg": {
 		"ft": 16384,
 		"iS": 128128,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ingen-collage-720x480.jpg",
 		"oF": 0,
@@ -295,6 +309,7 @@
 	"\/images\/ingen-collage-home-640.jpg": {
 		"ft": 16384,
 		"iS": 52450,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ingen-collage-home-640.jpg",
 		"oF": 0,
@@ -321,6 +336,7 @@
 	"\/images\/lfaw2012-banner480.jpg": {
 		"ft": 16384,
 		"iS": 16723,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/lfaw2012-banner480.jpg",
 		"oF": 0,
@@ -331,6 +347,7 @@
 	"\/images\/lfaw2012-banner960.jpg": {
 		"ft": 16384,
 		"iS": 29665,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/lfaw2012-banner960.jpg",
 		"oF": 0,
@@ -341,6 +358,7 @@
 	"\/images\/lfaw2017-banner480.jpg": {
 		"ft": 16384,
 		"iS": 415359,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/lfaw2017-banner480.jpg",
 		"oF": 0,
@@ -351,6 +369,7 @@
 	"\/images\/lfaw2017-banner960.jpg": {
 		"ft": 16384,
 		"iS": 256016,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/lfaw2017-banner960.jpg",
 		"oF": 0,
@@ -361,6 +380,7 @@
 	"\/images\/lfaw4d-banner480.jpg": {
 		"ft": 16384,
 		"iS": 36237,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/lfaw4d-banner480.jpg",
 		"oF": 0,
@@ -371,6 +391,7 @@
 	"\/images\/lfaw4d-banner960.jpg": {
 		"ft": 16384,
 		"iS": 60326,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/lfaw4d-banner960.jpg",
 		"oF": 0,
@@ -391,6 +412,7 @@
 	"\/images\/ninelives-banner480.jpg": {
 		"ft": 16384,
 		"iS": 35761,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ninelives-banner480.jpg",
 		"oF": 0,
@@ -401,6 +423,7 @@
 	"\/images\/ninelives-banner960.jpg": {
 		"ft": 16384,
 		"iS": 47027,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ninelives-banner960.jpg",
 		"oF": 0,
@@ -411,6 +434,7 @@
 	"\/images\/ninelives2014-banner480.jpg": {
 		"ft": 16384,
 		"iS": 34626,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ninelives2014-banner480.jpg",
 		"oF": 0,
@@ -421,6 +445,7 @@
 	"\/images\/ninelives2014-banner960.jpg": {
 		"ft": 16384,
 		"iS": 65597,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/ninelives2014-banner960.jpg",
 		"oF": 0,
@@ -453,6 +478,7 @@
 	"\/images\/savethedate-banner480.jpg": {
 		"ft": 16384,
 		"iS": 35767,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/savethedate-banner480.jpg",
 		"oF": 0,
@@ -463,6 +489,7 @@
 	"\/images\/savethedate-banner960.jpg": {
 		"ft": 16384,
 		"iS": 56102,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/savethedate-banner960.jpg",
 		"oF": 0,
@@ -473,6 +500,7 @@
 	"\/images\/w2e-banner480.jpg": {
 		"ft": 16384,
 		"iS": 46088,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/w2e-banner480.jpg",
 		"oF": 0,
@@ -483,6 +511,7 @@
 	"\/images\/w2e-banner960.jpg": {
 		"ft": 16384,
 		"iS": 78049,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/w2e-banner960.jpg",
 		"oF": 0,
@@ -493,6 +522,7 @@
 	"\/images\/wildcat-banner480.jpg": {
 		"ft": 16384,
 		"iS": 16705,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/wildcat-banner480.jpg",
 		"oF": 0,
@@ -503,6 +533,7 @@
 	"\/images\/wildcat-banner960.jpg": {
 		"ft": 16384,
 		"iS": 29949,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/wildcat-banner960.jpg",
 		"oF": 0,
@@ -1007,7 +1038,8 @@
 	"creationDate": 533331002,
 	"displayValue": "ingen-productions",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/apple-touch-icon.png"
+	"iconImageName": "\/apple-touch-icon-144x144.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1015,6 +1047,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1578,6 +1611,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2805,6 +2842,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
