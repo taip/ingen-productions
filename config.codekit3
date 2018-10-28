@@ -7,7 +7,7 @@
 		"uuidString": "BDC9E552-2ABF-429D-A86F-659BE92E7713"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -151,28 +151,6 @@
 		"oA": 0,
 		"oAP": "/favicon.ico",
 		"oF": 0
-		},
-	"/images/bangarang-480.jpg": {
-		"ft": 16384,
-		"iS": 47321,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/bangarang-480.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/bangarang-960.jpg": {
-		"ft": 16384,
-		"iS": 74983,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/bangarang-960.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"/images/dieyoung-banner480.jpg": {
 		"ft": 16384,
