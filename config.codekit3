@@ -152,6 +152,28 @@
 		"oAP": "/favicon.ico",
 		"oF": 0
 		},
+	"/images/bangarang-480.jpg": {
+		"ft": 16384,
+		"iS": 535249,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/bangarang-480.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/bangarang-960.jpg": {
+		"ft": 16384,
+		"iS": 186651,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/bangarang-960.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/dieyoung-banner480.jpg": {
 		"ft": 16384,
 		"iS": 33406,
